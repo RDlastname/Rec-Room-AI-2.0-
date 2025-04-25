@@ -1,4 +1,4 @@
-Rec|GPT is a A.I. that is for the game Rec Room. It uses Chat GPT.
+Rec|GPT is a A.I. that is for the game Rec Room.
 
 Rec|GPT 1.0 is for Rooms 1 and 2.0 for rooms 2! The difference is that R1.0 is more limited then 2.0. 
 
