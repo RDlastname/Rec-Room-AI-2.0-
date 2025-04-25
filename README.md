@@ -9,7 +9,7 @@ The commands are:
 /roomname will give a random generated name for a room. 
 
 /gameidea will give you a random explained game idea
-. 
+
 /customchip will give you a idea for cv2 using the knowledge it has.
 
 /socials will give you recroom domains.
