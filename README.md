@@ -17,3 +17,5 @@ The commands are:
 /forget will revert it back to Chat|GPT. 
 
 /help will tell you how to use Rec|GTP.
+
+This was haviley inspired by https://github.com/DJICore/RoomGPT
