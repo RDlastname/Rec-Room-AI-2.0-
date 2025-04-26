@@ -22,4 +22,3 @@ The commands are:
 ~
 This was haviley inspired by https://github.com/DJICore/RoomGPT
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Project%20Is%20only%20useful%20for%20the%20game%20Rec%20Room">
