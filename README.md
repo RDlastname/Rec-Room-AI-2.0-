@@ -21,3 +21,5 @@ The commands are:
 
 ~
 This was haviley inspired by https://github.com/DJICore/RoomGPT
+
+https://img.shields.io/badge/%20%20Project%20is%20for%20and%20only%20for%20Rec%20Room-8A2BE2
