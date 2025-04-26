@@ -22,4 +22,4 @@ The commands are:
 ~
 This was haviley inspired by https://github.com/DJICore/RoomGPT
 
-`#0969DA`	
+`This Project works on other A.I models but is better for Chat|GPT`	
