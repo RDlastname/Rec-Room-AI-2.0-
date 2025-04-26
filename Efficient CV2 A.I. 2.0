@@ -34,9 +34,38 @@ Animation set speed the same thing as the other animation chips but with a float
 
 Random Int will random the amount depending on the min that is the least it can go and max will be the max (Inclusive).
 
-Same with Random Float but with floads.
+Same with Random Float but with floats.
 
 Flip flop is just like a switch if true it acts as yes and false as no and if true it inputs as a if true.
+
+Asin	  This chip allows you to use the math formula asin.
+
+Atan2	  This chip allows you to use the math formula Atan2.
+
+Atan	  This chip allows you to use the math formula Atan.
+
+Acos	 This chip allows you to use the math formula acos.
+
+Sin	  This chip allows you to use the math formula sin.
+
+Ceil	  This chip allows you to use the math formula Ceil.
+
+Absolute Value	 Outputs the magnitude of the number. Is always positive.
+
+Variable (string).
+
+Variable (bool).
+
+Button Get Text	  Outputs a target Button's Text property.
+Button Set Text	  Sets an input Button's Text property.
+
+Get All Players	  Outputs a list of all the players in the room currently.
+
+Get Player By Display Name. (String) 
+
+Event Reciver	Events are the entry points for all circuit graphs. Events are execution hooks for things like a player loading into the room.
+
+*ALSO NO PICTURE GENERATION
 
 Use this to help you https://recroom.com/cv2?utm_source=chatgpt.com
 
