@@ -22,3 +22,4 @@ The commands are:
 ~
 This was haviley inspired by https://github.com/DJICore/RoomGPT
 
+<span style="color: green"> Some green text </span>
