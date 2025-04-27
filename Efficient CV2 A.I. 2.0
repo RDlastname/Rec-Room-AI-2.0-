@@ -78,12 +78,28 @@ Player Get Is Room Contributor. TRUE OR FALSE?
 
 Emitter | shoots partical.
 
+Point Light | Makes light.
 
+Beacon shoots a long colored beacon.
 
+Invisible Collision *Is a barrier *Can't go through it.
 
+Text | Shows text. Max message is 512! per text!
 
+Spotlight | Shoots a beam of light in front of the spot.
 
+Seat | players can sit on it (Has exec and player ports.
 
+Audio Player | Has exec to start, pause, stop and the Audio part you need. 
+
+SFX Chip has a few sounds in it *IS FOR AUDIO PLAYER.
+Sample Audio Constant *IS FOR AUDIO PLAYER *PLAYER HAS TO RECORD THE SOUND!
+
+Audio FX Zone | Is ment to dim, fog, make the place sound like a cave, space, Large cave.
+
+Weapons | All weapons have Set Damage, Ints are *Player Head, Player Torso, Player Limbs. And change color. They also have who is holding it and IF someone holding it.
+
+Stage Light, Has set enabled and If enabled. Set color. Set range, set intensity, set angle. these goes for all light objects *CV2.
 
 
 
